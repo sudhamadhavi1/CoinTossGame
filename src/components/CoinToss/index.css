@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.app-container {
+  height: 100vh;
+  background-image: linear-gradient(#e2a139, #f9d423);
+  padding: 30px;
+  text-align: center;
+}
+
+.white-container {
+  border-radius: 10px;
+  height: 60vh;
+  width: 70vw;
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 10px;
+}
+
+.heading {
+  color: #a35200;
+  font-size: 25px;
+}
+
+.coin-image {
+  height: 50px;
+  width: 50px;
+}
+.image-container {
+  height: 100px;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+}
